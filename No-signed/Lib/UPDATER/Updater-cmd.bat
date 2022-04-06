@@ -1,0 +1,3 @@
+@echo off
+echo locating no and webgal packages....
+start https://github.com/mxttutu/NO/archive/refs/heads/main.zip
